@@ -1,0 +1,40 @@
+body{
+    font-size: 50px;display: flex;
+    justify-content: center;
+/* background: radial-gradient(pink,orange,red); */
+}
+/* h1{
+    display: flex;
+    align-items: flex-start;
+} */
+.div{
+    border: 5px solid;
+    border-radius: 10px;
+    border-color: black;
+    background-color: #f4f4f4f4;
+    height: 600px;
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+        
+}
+.btn{
+    color: aliceblue;
+    border: 3px solid;
+    border-radius: 10px;
+    background-color: black;
+    border-color: black;
+    height: 70px;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    text-align: center ;
+}
