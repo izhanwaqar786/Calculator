@@ -1,5 +1,6 @@
 body{
-    font-size: 50px;display: flex;
+    font-size: 50px;
+    display: flex;
     justify-content: center;
 /* background: radial-gradient(pink,orange,red); */
 }
@@ -11,7 +12,7 @@ body{
     border: 5px solid;
     border-radius: 10px;
     border-color: black;
-    background-color: #f4f4f4f4;
+    background-color: #f4f4f4;
     height: 600px;
     width: 500px;
     display: flex;
@@ -37,4 +38,8 @@ a{
     text-decoration: none;
     color: black;
     text-align: center ;
+}
+.h1{
+    font-family: Arial, Helvetica, sans-serif;
+    
 }
